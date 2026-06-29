@@ -7,7 +7,7 @@ client trades, track performance, and generate professional monthly P\u0026L rep
 
 - **Client Management** — Add and switch between multiple clients instantly
 - **Trade Logging** — Log buy/sell trades with entry price, exit price, quantity and date
-- **Live Dashboard** — Real-time metrics: Net P\u0026L, Win Rate, Best Trade, Total Trades
+- **Live Dashboard** — Real-time metrics: Net PNL, Win Rate, Best Trade, Total Trades
 - **Visual Chart** — Bar chart showing profit/loss per trade (green/red)
 - **Month Filter** — Filter all data by any month
 - **Report Generator** — One click generates a clean, professional P\u0026L report per client
